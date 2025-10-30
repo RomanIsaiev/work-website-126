@@ -136,7 +136,7 @@ body {
   box-shadow: 0 0 10.8px 0 rgba(255, 221, 85, 0.3);
   backdrop-filter: blur(5px);
   width: 100%;
-  max-width: 177px;
+  max-width: 49%;
   height: 60px;
 }
 
